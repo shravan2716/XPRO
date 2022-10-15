@@ -1,2 +1,6 @@
 # hello-world
-# bantai
+#include<stdio.h>
+void main()
+(
+printf("Hello World...!!!");
+)
